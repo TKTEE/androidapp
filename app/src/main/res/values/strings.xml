@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show bobo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="button">Button</string>
+</resources>
